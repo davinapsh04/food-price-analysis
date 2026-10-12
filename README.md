@@ -12,7 +12,7 @@ Exploratory data analysis of daily prices for 10 staple food commodities in Indo
 
 | Item | Detail |
 |---|---|
-| Location | Jakarta |
+| Location | Singaraja |
 | Period | 2018–2024, daily |
 | Size | 2,557 rows, 12 columns |
 | Unit | Price in IDR |
